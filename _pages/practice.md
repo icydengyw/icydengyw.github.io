@@ -23,11 +23,13 @@ author_profile: true
 <span style="float: left">
 <b>Academic Conference</b></span>
 <br>
-<ul><li>2022 International Forum on Big Data for Sustainable Development Goals(Remote)<span style="float: right">09/2022</span></li>
+<ul>
+<li>The First Conference on World Geography (Remote)<span style="float: right">11/2022</span></li>
+<li>2022 International Forum on Big Data for Sustainable Development Goals(Remote)<span style="float: right">09/2022</span></li>
 <li>The 4<sup>th</sup> Chinese Congress on Remote Sensing of Wetlands(Remote) <span style="float: right">08/2022</span></li>
-<li>The 3rd Chinese Congress on Remote Sensing of Wetlands(Remote)<span style="float: right">10/2021</span></li>
-<li>The 2rd Chinese Congress on Remote Sensing of Wetlands(Remote)<span style="float: right">08/2020</span></li>
-<li>The 2nd SURE China Academic Seminar and the 7th Urban Ecology Forum(Shanghai)<span style="float: right">12/2018</span></li>
+<li>The 3<sup>rd</sup> Chinese Congress on Remote Sensing of Wetlands(Remote)<span style="float: right">10/2021</span></li>
+<li>The 2<sup>rd</sup> Chinese Congress on Remote Sensing of Wetlands(Remote)<span style="float: right">08/2020</span></li>
+<li>The 2<sup>rd</sup> SURE China Academic Seminar and the 7<sup>th</sup> Urban Ecology Forum(Shanghai)<span style="float: right">12/2018</span></li>
 
 </ul>
 <br>
