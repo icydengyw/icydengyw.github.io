@@ -10,27 +10,18 @@ redirect_from:
 {% include base_path %}
 
 
-
 <span style="font-family: 'euclid';">
 
-* 🎓 **University of Groningen**
-    * Exchange student of Spatial Sciences
-    * 09/2022~02/2023
-    * 📍 *Groningen, Netherlands*
-    
 
 * 🎓 **Beijing Normal University**
-    * Master of Natural Resources
+    * Master of Cartography and Geographic Information Engineering
     * 09/2020~07/2023 (except)
     * 📍 *Beijing, China*
     
 
-* 🎓 **Yanbian University**
-    * Bachelor of Geographic Information Science (Major)
-    * Bachelor of Computer Science (Minor)
+* 🎓 **Beijing Normal University**
+    * Bachelor of Geographic Information Science
     * 09/2016~07/2020
-    * 📍 *Yanbian, China*
+    * 📍 *Beijing, China*
 
 <span>
-
-
