@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinhao Pan / Academic Pages"
+title                    : "Yawen Deng / Academic Pages"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://xinhaopan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://icydengyw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xinhaopan/xinhaopan.github.io"
+repository               : "icydengyw/icydengyw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,17 +81,17 @@ analytics:
 # Site Author
 #"I am seeking a Geography PhD position starting in Spring 2024."
 author:
-  name             : "Xinhao Pan"
+  name             : "Yawen Deng"
   avatar           : "profile1.jpg"
-  bio              : "I am seeking a PhD position in Geography."
+  bio              : "I am expected to be a PhD student."
   university       : "https://www.bnu.edu.cn/"
   location         : "Beijing·China"
   employer         :
-  cnblog           : "https://www.cnblogs.com/skypanxh/"
+  cnblog           : "https://www.cnblogs.com/icydengyw/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "panxinhao98@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Xinhao-Pan"
+  email            : "ciscodengyw@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Xinhao-Pan"
   uri              :
   bitbucket        :
   codepen          :
