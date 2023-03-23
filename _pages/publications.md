@@ -13,13 +13,13 @@ DOI:  <a href="https://doi.org/10.1109/JSTARS.2022.3192267" target="_blank">http
 * **Deng, Y.**, Jiang, W\*., Wu, Z., Ling, Z., Peng, K., & Deng, Y. (2022). Assessing Surface Water Losses and Gains under Rapid Urbanization for SDG 6.6.1 Using Long-Term Landsat Imagery in the Guangdong-Hong Kong-Macao Greater Bay Area, China. *Remote Sensing*, 14, 881.
 DOI:  <a href="https://doi.org/10.3390/rs14040881" target="_blank">https://doi.org/10.3390/rs14040881</a> 
 
-* **Deng, Y.**, Hou, P., Jiang, W\*., Peng, K., Li, Z., Deng, Y. (2022). Automatic Extraction of River Source Region Boundary based on Multi-Characteristic Indexes and Hierarchical Cluster Analysis. *Journal of Geo-information Science (in Chinese with Engliash abstract)*, 24(3):14.
+* **Deng, Y.**, Hou, P., Jiang, W\*., Peng, K., Li, Z., Deng, Y. (2022). Automatic Extraction of River Source Region Boundary based on Multi-Characteristic Indexes and Hierarchical Cluster Analysis. *Journal of Geo-information Science (in Chinese with English abstract)*, 24(3):14.
 DOI:  <a href="https://doi.org/10.12082/dqxxkx.2022.210334" target="_blank">https://doi.org/10.12082/dqxxkx.2022.210334</a> 
 
-* **Deng, Y.**, Ling, Z\*., Sun, N., Lv, J. (2021). Daily Estimation of Soil Moisture over Beijing-Tianjin-Hebei Region based on General Regression Neural Network Model. *Journal of Geo-information Science (in Chinese with Engliash abstract)*, 23(4): 749-761.
+* **Deng, Y.**, Ling, Z\*., Sun, N., Lv, J. (2021). Daily Estimation of Soil Moisture over Beijing-Tianjin-Hebei Region based on General Regression Neural Network Model. *Journal of Geo-information Science (in Chinese with English abstract)*, 23(4): 749-761.
 DOI:  <a href="https://doi.org/10.12082/dqxxkx.2021.200149" target="_blank">https://doi.org/10.12082/dqxxkx.2021.200149</a> 
 
-* Ling, Z., Jiang, W., Liao, C., Li, Y., Ling, Y., Peng, K., **Deng, Y.** (2022). Evaluation of Production–Living–Ecological Functions in Support of SDG Target 11.a: Case Study of the Guangxi Beibu Gulf Urban Agglomeration, China. *Diversity*, 14, 469.
+* Ling, Z., Jiang, W\*., Liao, C., Li, Y., Ling, Y., Peng, K., **Deng, Y.** (2022). Evaluation of Production–Living–Ecological Functions in Support of SDG Target 11.a: Case Study of the Guangxi Beibu Gulf Urban Agglomeration, China. *Diversity*, 14, 469.
 DOI:  <a href="https://doi.org/10.3390/d14060469" target="_blank">https://doi.org/10.3390/d14060469</a> 
 
 * Wang, C., Jiang, W\*., Deng, Y., Ling, Z., **Deng, Y.** (2021). Long Time Series Water Extent Analysis for SDG 6.6.1 Based on the GEE Platform: A Case Study of Dongting Lake. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 15:490-503.
