@@ -1,4 +1,4 @@
-# 极简版主页，去除了花里胡哨的东西，直接修改就行
+极简版主页，去除了花里胡哨的东西，直接修改就行
 # 使用方法
 ## 一. fork到自己的github中
 ### 1.注册一个 GitHub 帐户并确认您的电子邮件（必需！），注册时最好设置GitHub username都为小写
@@ -24,6 +24,10 @@ c. 修改根目录根目录中的`_config.yml`文件，写下名称和链接
 ## 三、修改脚注
 ### 1. 修改更新时间
 修改`_includes\footer`文件夹中的`custom.html`中的update时间。
+
+## 四、添加博客
+首先在`_data`文件夹下修改`navigation.yml`增加 Blog Posts url设为`/year-archive/`
+在`_posts`文件夹中新建`.md`格式的文件，即可写自己的博客，文件名称必须按照“`YEAR-MONTH-DAY-title.md`”的格式，例如“`2023-03-20-Blog Test.md`”。
 
 # 欢迎访问我的主页： <a href="https://icydengyw.github.io/">https://icydengyw.github.io/</a>
 
