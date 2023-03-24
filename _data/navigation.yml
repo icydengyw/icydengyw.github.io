@@ -6,8 +6,8 @@ main:
     url: /publications/
   - title: "Programs"
     url: /programs/
-  - title: "Honors & Awards"
-    url: /honors/
+#  - title: "Honors & Awards"
+ #   url: /honors/
   - title: "Practice"
     url: /practice/
   - title: "Techinical Skills"
