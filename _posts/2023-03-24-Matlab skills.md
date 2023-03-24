@@ -14,6 +14,6 @@ T = array2table(A)%arrat to table
 T.Properties.VariableNames(1:3) = {'x_axis','y_axis','z_axis'}%note the number of cols
 writetable(T,'file.csv')
 ```
-> Ref
+Ref:
 > https://ww2.mathworks.cn/matlabcentral/answers/281150-writing-a-matrix-with-header-into-a-csv-file
 > https://www.zhihu.com/question/39707220
