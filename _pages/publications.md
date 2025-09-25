@@ -7,9 +7,13 @@ author_profile: true
 
 <span style="font-family: 'euclid';">
 
-* **Deng, Y.**, Jiang, W\*., Ling, Z\*., Wang, X., Peng, K., & Li, Z. (2023). Automated and refined wetland mapping of Dongting Lake using migrated training samples based on temporally dense Sentinel 1/2 imagery. *International Journal of Digital Earth*, 16(1), 3199-3221.
-DOI:  <a href="https://doi.org/10.1080/17538947.2023.2241428" target="_blank">https://doi.org/10.1080/17538947.2023.2241428</a>  
+* **Deng, Y.**, Peng, B\*., Guan, K\*., Runkle, B.R.K., Moreno-García, B., Wu, X., Wang, S., Zhou, Q., Reba, M.L. (2025). Detecting the onset of rice field inundation in the Lower Mississippi River Basin via Harmonized Landsat Sentinel-2 (HLS) satellite time series. ISPRS Journal of Photogrammetry and Remote Sensing, 228, 28–43.
+DOI:  <a href="[https://doi.org/10.1080/17538947.2023.2241428](https://doi.org/10.1016/j.isprsjprs.2025.07.003
+)" target="_blank">[https://doi.org/10.1080/17538947.2023.2241428](https://doi.org/10.1016/j.isprsjprs.2025.07.003
+)</a>
 
+* **Deng, Y.**, Jiang, W\*., Ling, Z\*., Wang, X., Peng, K., & Li, Z. (2023). Automated and refined wetland mapping of Dongting Lake using migrated training samples based on temporally dense Sentinel 1/2 imagery. *International Journal of Digital Earth*, 16(1), 3199-3221.
+DOI:  <a href="https://doi.org/10.1080/17538947.2023.2241428" target="_blank">https://doi.org/10.1080/17538947.2023.2241428</a>
 
 * **Deng, Y.**, Jiang, W\*., Wu, Z., Peng, K., Ling, Z., Li, Z., Wang, X. (2022). Assessing and Characterizing Carbon Storage in Wetlands of the Guangdong–Hong Kong–Macau Greater Bay Area, China, During 1995–2020. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 15, 6110-6120.
 DOI:  <a href="https://doi.org/10.1109/JSTARS.2022.3192267" target="_blank">https://doi.org/10.1109/JSTARS.2022.3192267</a>  
