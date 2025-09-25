@@ -12,9 +12,14 @@ redirect_from:
 
 <span style="font-family: 'euclid';">
 
-* 🎓 **University of Illinois Urbana-Champaign**
+* 🎓 **Indiana University Indianapolis**
     * PhD student
-    * 08/2023~
+    * 08/2025~
+    * 📍 *Indianapolis, US*
+    
+* 🎓 **University of Illinois Urbana-Champaign**
+    * Research Assistant
+    * 08/2023~07/2025
     * 📍 *Urbana, US*
       
 * 🎓 **Beijing Normal University**
